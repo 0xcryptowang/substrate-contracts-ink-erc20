@@ -19,38 +19,42 @@
 
 ![Image text](./result/2.png) 
 
-3) 可视化调用 canvas ui链接: 
-
-```
-https://paritytech.github.io/canvas-ui/#/instantiate  
-```
-4) 上传合约文件,部署合约:
-
-![Image text](./result/3.png) 
-
-5) 合约部署完成:
-
-![Image text](./result/4.png)
-
-6) 调用合约，查询总供应量:
-
-![Image text](./result/5.png)
-
-7) 调用合约，转移资产:
-
-![Image text](./result/6.png)
-
-8) 转移成功,查询转移地址账户资产:
-
-![Image text](./result/7.png)
-
-8) 可视化查看链上链接:
+3) 可视化查看链上链接:
 
 ```
 https://polkadot.js.org/apps/#/explorer
 ```
 
-9) 查看链上状态和事件:
+4) 查看链上状态和事件:
 
 ![Image text](./result/8.png)
+
+5) 可视化调用 canvas ui链接: 
+
+```
+https://paritytech.github.io/canvas-ui/#/instantiate  
+```
+6) 上传合约文件,部署合约:
+
+![Image text](./result/3.png) 
+
+7) 合约部署完成:
+
+![Image text](./result/4.png)
+
+8) 调用合约，查询总供应量:
+
+![Image text](./result/5.png)
+
+9) 调用合约，转移资产:
+
+![Image text](./result/6.png)
+
+10) 转移成功,查询转移地址账户资产:
+
+![Image text](./result/7.png)
+
+
+
+
 

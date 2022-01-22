@@ -3,7 +3,7 @@
 1) 基于substrate 4.0的智能合约节点，加入ChainExtension
 2) 后台运行效果:  
 ![Image text](./result/1.png) 
-3）可视化查看:
+3) 可视化查看:
 ![Image text](./result/0.png) 
 
 
